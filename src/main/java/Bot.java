@@ -72,7 +72,7 @@ public class Bot extends TelegramLongPollingBot{
                     sendMsg(message, "Записал!");
                     FileWriter FW = null;
                     try {
-                        FW = new FileWriter("C:/Users/Public/test.txt", true);
+                        FW = new FileWriter("Library", true);
                     } catch (IOException e) {
                         e.printStackTrace();
                     }

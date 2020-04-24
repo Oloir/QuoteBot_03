@@ -12,7 +12,7 @@ public class Quote  {
 
         {
             try {
-                Scan = new Scanner(new File("C:/Users/Public/test.txt"));
+                Scan = new Scanner(new File("Library"));
             } catch (FileNotFoundException e) {
                 e.printStackTrace();
             }

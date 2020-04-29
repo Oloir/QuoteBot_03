@@ -1,1 +1,2 @@
-worker: sh target/bin/QB
+worker: java -jar target/META-INF/MANIFEST.MF
+

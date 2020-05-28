@@ -31,4 +31,3 @@ public class Quote  {
         }
     }
 }
-//test234

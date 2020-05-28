@@ -1,2 +1,1 @@
-worker: sh target/bin/QB
-
+worker: sh target/bin/workerBot
